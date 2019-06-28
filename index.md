@@ -16,8 +16,8 @@ layout: default
 
 {% include 04-lists.md %}
 
-- item1
-- item2 
-- item3 
+* item1
+* item2
+* item3
 
 {% include 05-emphasis.md %}
